@@ -1,5 +1,6 @@
 # AlgoProgFP
-#Jairo Nathanael Immanuel Siegers
-#L1CC
+Jairo Nathanael Immanuel Siegers
 
-#Documentation: https://youtu.be/bsN3Pl-o7VI
+L1CC
+
+Documentation: https://youtu.be/bsN3Pl-o7VI
